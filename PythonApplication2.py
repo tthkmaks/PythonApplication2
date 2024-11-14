@@ -68,7 +68,7 @@ pilt_btn.grid(row=2, column=1)
 
 
 
-
+netu nihuja okna!!!
 
 
 
